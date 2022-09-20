@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ReebaPookkolayilBaby
 - 👀 I’m interested in Coding and Testing
-- 🌱 I’m currently python,React Native
+- 🌱 I’m currently learning python,React Native
 - 📫 How to reach me ...
 
 <!---
